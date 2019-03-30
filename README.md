@@ -113,10 +113,3 @@ node default {
 10. Add mysite.com to your local dns, i.e. /etc/hosts file and test the site http://mysite.com
 
 
-### Author
-**Munikumar** 
-- [Twitter](https://twitter.com/kumarenters)
-- Please share your suggestions and feedback @ *munikumare@gmail.com*
-- [GitHub URL](https://github.com/munikumare/)
-
-
