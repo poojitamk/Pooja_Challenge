@@ -1,7 +1,7 @@
 ## SED Challenge
 #Infrastructure
-  For this project, please think about how you would architect a scalable and secure static web
-  application in AWS.
+    For this project, please think about how you would architect a scalable and secure static web
+    application in AWS.
   
     • Create and deploy a running instance of a web server using a configuration management
     tool of your choice. The web server should serve one page with the following content.
@@ -22,11 +22,11 @@
 
 #How to Run:
 
-  Clone repo to your local machine
-  Once git clone has completed, navigate into the directory via Terminal
-  Procure 2-aws EC2 instances and install ansible uisng below link
-  Download & Install required dependencies
-    http://docs.ansible.com/ansible/latest/intro_installation.html
-  While in SRE_Challenge directory... run: ansible-playbook playbook.yml
-  Navigate to EC2-node instance in your browser of choice
-  Note: Will redirect to https, but is currently using a self-signed certificate
+    Clone repo to your local machine
+    Once git clone has completed, navigate into the directory via Terminal
+    Procure 2-aws EC2 instances and install ansible uisng below link
+    Download & Install required dependencies
+      http://docs.ansible.com/ansible/latest/intro_installation.html
+    While in SRE_Challenge directory... run: ansible-playbook playbook.yml
+    Navigate to EC2-node instance in your browser of choice
+    Note: Will redirect to https, but is currently using a self-signed certificate
