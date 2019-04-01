@@ -1,7 +1,8 @@
 ## SED Challenge
-Infrastructure
+#Infrastructure
   For this project, please think about how you would architect a scalable and secure static web
   application in AWS.
+  
     • Create and deploy a running instance of a web server using a configuration management
     tool of your choice. The web server should serve one page with the following content.
         <html>
@@ -18,12 +19,9 @@ Infrastructure
     the web server.
     • Develop and apply automated tests to validate the correctness of the server configuration.
   
-Resources Used
-  Ansible
-  Automation tool that is used for configuration management, executing consistent server-side tasks, and web application deployments. This   is "Infrastructure as Code".
-  Used Ansible modules to test server configuration & function, strategies used were based off of:        http://docs.ansible.com/ansible/latest/test_strategies.html
 
-How to Run
+#How to Run:
+
   Clone repo to your local machine
   Once git clone has completed, navigate into the directory via Terminal
   Procure 2-aws EC2 instances and install ansible uisng below link
