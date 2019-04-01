@@ -20,11 +20,11 @@
 
 #How to Run:
 
-    Clone repo to your local machine
-    Once git clone has completed, navigate into the directory via Terminal
-    Procure 2-aws EC2 instances and install ansible uisng below link
-    Download & Install required dependencies
-      http://docs.ansible.com/ansible/latest/intro_installation.html
-    While in SRE_Challenge directory... run: ansible-playbook playbook.yml
-    Navigate to EC2-node instance in your browser of choice
-    Note: Will redirect to https, but is currently using a self-signed certificate
+    1. Clone repo to your local machine
+    2. Once git clone has completed, navigate into the directory via Terminal
+    3. Procure 2-aws EC2 instances and install ansible uisng below link
+          Download & Install required dependencies
+            http://docs.ansible.com/ansible/latest/intro_installation.html
+    4. While in SRE_Challenge directory... run: ansible-playbook playbook.yml
+    5. Navigate to EC2-node instance in your browser of choice
+       Note: Will redirect to https, but is currently using a self-signed certificate
