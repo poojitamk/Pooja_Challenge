@@ -25,6 +25,8 @@
     3. Procure 2-aws EC2 instances and install ansible uisng below link
           Download & Install required dependencies
             http://docs.ansible.com/ansible/latest/intro_installation.html
-    4. While in SRE_Challenge directory... run: ansible-playbook playbook.yml
+    4. While in Pooja_Challenge directory... run: ansible-playbook playbook.yml
     5. Navigate to EC2-node instance in your browser of choice
        Note: Will redirect to https, but is currently using a self-signed certificate
+    
+  
